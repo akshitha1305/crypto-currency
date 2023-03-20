@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+.currency-container {
+  padding: 30px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 30px;
+  color: #00e7ff;
+  text-align: center;
+}
+.img {
+  width: 70%;
+}
+.list-container {
+  border: 7px solid #00e7ff;
+  border-radius: 9px;
+}
+.lists-heading {
+  padding: 10px;
+  background-color: #092e33;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 23px;
+  margin-right: 5px;
+}
+.lists-heading {
+  display: flex;
+  justify-content: space-around;
+}
+.items-container {
+  background-color: #000000;
+  list-style-type: none;
+}
